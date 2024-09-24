@@ -85,3 +85,51 @@ Description("Alex is a traveler who seeks knowledge and enjoys taking on new cha
 }
 
 ```
+
+- CharML Example
+
+```bash
+<character>
+  <name>Adventurous Alex</name>
+  <nickname>Alex</nickname>
+  <species>Human</species>
+  <age>30 years old</age>
+  <features>
+    <hair_color>Black</hair_color>
+    <eye_color>Green</eye_color>
+    <scar>Left cheek scar</scar>
+  </features>
+  <body>
+    <height_cm>180</height_cm>
+    <height_ft>5'11"</height_ft>
+    <frame>Lean build</frame>
+  </body>
+  <mind>
+    <trait>Courageous</trait>
+    <trait>Inquisitive</trait>
+    <trait>Smart</trait>
+    <trait>Calm under pressure</trait>
+  </mind>
+  <personality>
+    <trait>Friendly</trait>
+    <trait>Optimistic</trait>
+    <trait>Adventurous</trait>
+    <trait>Determined</trait>
+  </personality>
+  <loves>
+    <love>Exploring</love>
+    <love>Learning new things</love>
+    <love>Challenging himself</love>
+    <love>Helping others</love>
+  </loves>
+  <hates>
+    <hate>Lying</hate>
+    <hate>Injustice</hate>
+    <hate>Procrastination</hate>
+    <hate>Conflict</hate>
+  </hates>
+  <description>
+    Alex is a traveler who seeks knowledge and enjoys taking on new challenges to better himself.
+  </description>
+</character>
+```
