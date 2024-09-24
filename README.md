@@ -133,3 +133,36 @@ Description("Alex is a traveler who seeks knowledge and enjoys taking on new cha
   </description>
 </character>
 ```
+
+- YAML Example
+
+```bash
+character:
+  name: "Adventurous Alex"
+  nickname: "Alex"
+  species: "Human"
+  age: "30 years"
+  features:
+    hair_color: "Black"
+    eye_color: "Green"
+    tattoos_scars: "Scar on left cheek"
+  body:
+    height_cm: 180
+    height_feet: "5'11"
+    frame: "Lean build"
+  mind:
+    traits: ["Courageous", "Inquisitive", "Smart", "Calm under pressure"]
+  personality:
+    traits: ["Friendly", "Optimistic", "Adventurous", "Determined"]
+  loves: 
+    - Exploring
+    - Learning new things
+    - Challenging himself
+    - Helping others
+  hates:
+    - Lying
+    - Injustice
+    - Procrastination
+    - Conflict
+  description: "Alex is a traveler who seeks knowledge and enjoys taking on new challenges to better himself."
+```
