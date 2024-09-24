@@ -236,3 +236,28 @@ dislikes=Lying, Injustice, Procrastination, Conflict
 [description]
 Alex is a traveler who seeks knowledge and enjoys taking on new challenges to better himself.
 ```
+- Properties Example
+```bash
+character.name=Adventurous Alex
+character.nickname=Alex
+character.species=Human
+character.age=30 years
+
+features.hair_color=Black
+features.eye_color=Green
+features.tattoos_scars=Scar on left cheek
+
+body.height_cm=180
+body.height_feet=5'11"
+body.frame=Lean build
+
+mind.traits=Courageous, Inquisitive, Smart, Calm under pressure
+
+personality.traits=Friendly, Optimistic, Adventurous, Determined
+
+loves.likes=Exploring, Learning new things, Challenging himself, Helping others
+
+hates.dislikes=Lying, Injustice, Procrastination, Conflict
+
+description.text=Alex is a traveler who seeks knowledge and enjoys taking on new challenges to better himself.
+```
