@@ -411,4 +411,3 @@ Have a format to add or improvements to suggest? We welcome all contributions! S
 ## 📚 **License**
 
 This repository is licensed under the MIT License. Feel free to use and modify these templates in your projects.
-```
